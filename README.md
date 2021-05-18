@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/plurid/machiner/master/about/identity/machiner-logo.png" height="250px">
+    <a target="_blank" href="https://machiner.plurid.cloud">
+        <img src="https://raw.githubusercontent.com/plurid/machiner/master/about/identity/machiner-logo.png" height="250px">
+    </a>
     <br />
     <br />
     <a target="_blank" href="https://github.com/plurid/machiner/blob/master/LICENSE">
